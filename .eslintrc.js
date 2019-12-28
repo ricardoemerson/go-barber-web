@@ -55,6 +55,7 @@ module.exports = {
           groups: [
               '/\b(?!react-icons|react-native-vector-icons)\b^react/',
               'module',
+              '/^@rocketseat/',
               '/^react-icons/',
               '/^react-native-vector-icons/',
               '/services/',
@@ -70,4 +71,11 @@ module.exports = {
     'react-hooks/rules-of-hooks': 'error',
     'react-hooks/exhaustive-deps': 'warn',
   },
+  settings: {
+    'import/resolver': {
+      'babel-plugin-root-import': {
+        rootPathSuffix: 'src'
+      }
+    }
+  }
 };
