@@ -1,8 +1,9 @@
-import { parseISO, formatDistance } from 'date-fns';
-import pt from 'date-fns/locale/pt';
 import React, { useState, useEffect, useMemo } from 'react';
 
 import { MdNotifications } from 'react-icons/md';
+
+import { parseISO, formatDistance } from 'date-fns';
+import pt from 'date-fns/locale/pt';
 
 import api from '~/services/api';
 

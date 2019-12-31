@@ -58,6 +58,7 @@ module.exports = {
               '/^@rocketseat/',
               '/^react-icons/',
               '/^react-native-vector-icons/',
+              '/^date-fns/',
               '/services/',
               '/pages/',
               '/components/',
