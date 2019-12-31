@@ -26,6 +26,7 @@
 
 <p align="center">
   <a href="#rocket-sobre-a-aplicação">Sobre a Aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#páginas-da-aplicação">Páginas da Aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -66,6 +67,17 @@ Abaixo segue todo o conteúdo que foi abordado no curso para o desenvolvimento d
 - Estilização do Dashboard
 - Navegando entre dias
 - Listando agendamentos
+
+## Páginas da Aplicação
+
+### Página Principal
+<img alt="Página Principal" title="Página Principal" src=".github/main.png" width="800px" />
+
+### Notificações
+<img alt="Notificações" title="Notificações" src=".github/notifications.png" width="800px" />
+
+### Perfil
+<img alt="Perfil" title="Perfil" src=".github/profile.png" width="800px" />
 
 ## :memo: Licença
 
